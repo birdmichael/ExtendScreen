@@ -29,6 +29,10 @@
 	<dict>
 		<key>Headers/MiniAction.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			oPJlnhBZP6fiBcZXBg0HB+zQJfA=
+			</data>
 			<key>hash2</key>
 			<data>
 			fTp85mAVhl2Kaiw4lZ95Wezg1UzfXEtoDAMJ9Z0+zMs=
@@ -36,6 +40,10 @@
 		</dict>
 		<key>Headers/MiniBrowser.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			lFeSRflwwTxvoZDJYzn2FDRu2wI=
+			</data>
 			<key>hash2</key>
 			<data>
 			ePb6aDlyfWou5hwMePXtBYgbpreYvK5gw7WjrvDwoCo=
@@ -43,6 +51,10 @@
 		</dict>
 		<key>Headers/MiniClientManager.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			Y1aBNDvRtjjBiP/z6z00bPC1rcA=
+			</data>
 			<key>hash2</key>
 			<data>
 			ZSRZV5/Pwg4vtFWBX3iVbAJsx2uECiv/KGyN8fIga7s=
@@ -50,6 +62,10 @@
 		</dict>
 		<key>Headers/MiniRemoteDevice.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			QOIwMlDgONg3HXjEceWSox2Xn2w=
+			</data>
 			<key>hash2</key>
 			<data>
 			xaAmnI95gD/BkFvdNnKoZChj804XCyr49B3nl4Mwz5o=
